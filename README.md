@@ -9,7 +9,7 @@
     </td>
     <td width="50%" align="right">
       
-<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=45,800080,FF7B00"/>
+<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=45,800080,FFD700"/>
     </td>
   </tr>
 </table>
