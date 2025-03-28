@@ -10,9 +10,6 @@
     <td width="50%" align="right">
       
 <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=45,3B1E8A,2EAE66"/>
-
-
-
     </td>
   </tr>
 </table>
