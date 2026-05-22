@@ -21,6 +21,7 @@ Baseado em **Teresina, PI — Brasil** 🇧🇷
 
 ## 👨‍💻 Sobre mim
 
+```javascript
 const thiago = {
   nome:       "Thiago Emanuel Araújo Jorge de Sá",
   localidade: "Teresina, PI — Brasil",
@@ -28,6 +29,7 @@ const thiago = {
   estudando:  ["React.js", "Node.js", "AWS"],
   pronomes:   "ele/dele",
 };
+```
 
 ---
 
