@@ -12,7 +12,7 @@
 **Teresina, PI — Brasil** 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-araújo-2005ab369/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-rose-theta.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-thiagoaraujo.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoeajds@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5586995214866)
 </div>
@@ -75,7 +75,7 @@ const thiago = {
 | [🍵 Chá e Encantos](https://github.com/ditimon01/site-cha-e-encantos) | E-commerce de chás com catálogo, carrinho e área admin | Firebase · HTML · CSS · JS |
 | [🚦 Simulador de Trânsito](https://github.com/Thiago-EAJDS/Java) | Simulação visual de trânsito com controle de semáforos | Java · JavaFX |
 | [📦 Gestão de Estoque](https://github.com/Thiago-EAJDS/ProjetoBD_GestaoEstoque) | Sistema de gestão de estoque com banco de dados | Python · SQL |
-| [🌐 Portfólio Pessoal](https://portifolio-rose-theta.vercel.app) | Portfólio single-page com modo escuro/claro e animações | HTML · CSS · JavaScript |
+| [🌐 Portfólio Pessoal](https://portifolio-thiagoaraujo.vercel.app/) | Portfólio single-page dinâmico com animações | HTML · CSS · JavaScript |
 
 ---
 
