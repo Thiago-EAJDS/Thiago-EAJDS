@@ -21,14 +21,25 @@ Baseado em **Teresina, PI — Brasil** 🇧🇷
 
 ## 👨‍💻 Sobre mim
 
-```javascript
-const thiago = {
-  nome:       "Thiago Emanuel Araújo Jorge de Sá",
-  localidade: "Teresina, PI — Brasil",
-  foco:       ["Desenvolvimento Web", "Full Stack", "Interfaces Modernas"],
-  estudando:  ["React.js", "Node.js", "AWS"],
-  pronomes:   "ele/dele",
-};
+## 👨‍💻 Sobre mim
+
+```js
+class Thiago {
+  constructor() {
+    this.nome = "Thiago Emanuel";
+    this.area = "Aberto a oportunidades";
+    this.local = "Teresina, PI - Brasil";
+    this.stack = [
+      "React",
+      "Node.js",
+      "Java",
+      "Next.js",
+      "AWS"
+    ];
+  }
+}
+
+const me = new Thiago();
 ```
 
 ---
