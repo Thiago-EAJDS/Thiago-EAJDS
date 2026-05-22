@@ -8,8 +8,8 @@
 
 ### Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-**Desenvolvedor Full Stack** apaixonado por tecnologia, interfaces modernas e código limpo.  
-Baseado em **Teresina, PI — Brasil** 🇧🇷
+**Programador** apaixonado por tecnologia, interfaces modernas e código limpo.  
+**Teresina, PI — Brasil** 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-araújo-2005ab369/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-rose-theta.vercel.app)
