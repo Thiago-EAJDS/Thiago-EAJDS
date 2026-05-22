@@ -83,8 +83,9 @@ const thiago = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Thiago-EAJDS&show_icons=true&theme=tokyonight&hide_border=true&title_color=a07de0&icon_color=7c5cbf&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&theme=tokyonight&hide_border=true&title_color=a07de0&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-EAJDS&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -93,7 +94,5 @@ const thiago = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cbf&height=90&section=footer" width="100%"/>
-
-*"Código limpo não é escrito para a máquina — é escrito para pessoas."*
 
 </div>
