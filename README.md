@@ -14,7 +14,7 @@ Baseado em **Teresina, PI — Brasil** 🇧🇷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-araújo-2005ab369/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-rose-theta.vercel.app)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoeajds@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5586995214866)
 </div>
 
 ---
