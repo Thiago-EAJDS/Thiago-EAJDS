@@ -8,7 +8,6 @@
 
 ### Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-**Programador** apaixonado por tecnologia, interfaces modernas e código limpo.  
 **Teresina, PI — Brasil** 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-araújo-2005ab369/)
