@@ -75,17 +75,6 @@ const thiago = {
 
 ---
 
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🍵 Chá e Encantos](https://github.com/ditimon01/site-cha-e-encantos) | E-commerce de chás com catálogo, carrinho e área admin | Firebase · HTML · CSS · JS |
-| [🚦 Simulador de Trânsito](https://github.com/Thiago-EAJDS/Java) | Simulação visual de trânsito com controle de semáforos | Java · JavaFX |
-| [📦 Gestão de Estoque](https://github.com/Thiago-EAJDS/ProjetoBD_GestaoEstoque) | Sistema de gestão de estoque com banco de dados | Python · SQL |
-| [🌐 Portfólio Pessoal](https://portifolio-thiagoaraujo.vercel.app/) | Portfólio single-page dinâmico com animações | HTML · CSS · JavaScript |
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
