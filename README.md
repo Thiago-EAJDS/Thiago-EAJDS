@@ -79,7 +79,6 @@ const thiago = {
 
 <div align="center">
 
-## 📊 Estatísticas
 <div align="center">
 <img height="160em" src="https://github-readme-stats-green-one-rep0fzhlhz.vercel.app/api?username=Thiago-EAJDS&show_icons=true&theme=tokyonight"/>
 <img height="160em" src="https://github-readme-stats-green-one-rep0fzhlhz.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&theme=tokyonight"/>
