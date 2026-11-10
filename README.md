@@ -25,7 +25,7 @@ const thiago = {
   nome:       "Thiago Emanuel Araújo Jorge de Sá",
   localidade: "Teresina, PI — Brasil",
   foco:       ["Desenvolvimento Web", "Full Stack", "Interfaces Modernas"],
-  estudando:  ["React.js", "AWS", "Flutter"],
+  estudando:  ["Supabase", "Oracle"],
   pronomes:   "ele/dele",
 };
 ```
