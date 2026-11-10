@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  • Sobre Mim
 
 ```javascript
 const thiago = {
@@ -32,7 +32,7 @@ const thiago = {
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## • Tecnologias & Ferramentas
 
 **Frontend**
 
@@ -75,7 +75,7 @@ const thiago = {
 
 ---
 
-## 📊 Estatísticas
+## • Estatísticas
 
 <div align="center">
   <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" />
