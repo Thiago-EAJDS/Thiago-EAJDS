@@ -78,11 +78,8 @@ const thiago = {
 ## 📊 Estatísticas
 
 <div align="center">
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats-green-one-rep0fzhlhz.vercel.app/api?username=Thiago-EAJDS&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats-green-one-rep0fzhlhz.vercel.app/api/top-langs/?username=Thiago-EAJDS&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
 ---
